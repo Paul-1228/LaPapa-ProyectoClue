@@ -1,0 +1,12 @@
+Las 10 puntuaciones más altas!
+
+La: 10
+1: 10
+Paul: 20
+Marcela: 30
+Andres: 30
+Andres: 30
+Paul: 40
+Paul: 40
+Vincer: 50
+Paul: 50
